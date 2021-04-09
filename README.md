@@ -25,6 +25,13 @@ Start the application:
 ```
 kretes start
 ```
-
+If above commands are not working then use below commands in Vs-code terminal as given below:
+```
+npm install -g kretes
+```
+and then go to the application folder using terminal and then type:
+ ```
+ kretes start
+ ```
 
 
